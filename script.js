@@ -11,12 +11,12 @@ let timestamp = document.getElementsByClassName('timestamp');
 
 let songs = [
     {songName: "chale-jana-fir", filePath: "1.mp3", coverPath: "covers/cover1.jpg"},
-    {songName: "tumne jo hai manga", filePath: "2.mp3", coverPath: "covers/cover2.jpg"},
+    {songName: "tumne jo hai ", filePath: "2.mp3", coverPath: "covers/cover2.jpg"},
     {songName: "aur kya chahiye", filePath: "3.mp3", coverPath: "covers/cover3.jpg"},
     {songName: "saware", filePath: "4.mp3", coverPath: "covers/cover4.jpg"},
     {songName: "tere hawale", filePath: "5.mp3", coverPath: "covers/cover5.jpg"},
-    {songName: "shiddat-title track", filePath: "6.mp3", coverPath: "covers/cover6.jpg"},
-    {songName: "ye jism hai toh kya", filePath: "7.mp3", coverPath: "covers/cover7.jpg"},
+    {songName: "shiddat-title ", filePath: "6.mp3", coverPath: "covers/cover6.jpg"},
+    {songName: "ye jism hai toh", filePath: "7.mp3", coverPath: "covers/cover7.jpg"},
     {songName: "zero-title track", filePath: "8.mp3", coverPath: "covers/cover8.jpg"},
     {songName: "zihale miskin", filePath: "9.mp3", coverPath: "covers/cover9.jpg"},
     {songName: "fakira", filePath: "10.mp3", coverPath: "covers/cover10.jpg"},
